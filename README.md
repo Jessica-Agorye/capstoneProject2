@@ -1,4 +1,6 @@
 # Sidehustle-capstone-project-group-39
+![Screenshot (10)](https://user-images.githubusercontent.com/71254746/143239498-4e576349-de72-4863-ab77-9d0706572260.png)
+
 # Frontend Mentor - Sunnyside agency landing page solution
 
 This is a solution to the [Sunnyside agency landing page challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/sunnyside-agency-landing-page-7yVs3B6ef). Frontend Mentor challenges to help me  improve my coding skills by building realistic projects.
