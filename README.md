@@ -1,7 +1,15 @@
 # Sidehustle-capstone-project-group-39
 ![Screenshot (10)](https://user-images.githubusercontent.com/71254746/143240957-d794c10c-4293-4acf-a698-b7a9098cab66.png)
 
+
+
+
 ![Screenshot (11)](https://user-images.githubusercontent.com/71254746/143241108-d0efc8eb-7050-4ce3-b2c0-70b0a4953940.png)
+
+
+
+
+![Screenshot (12)](https://user-images.githubusercontent.com/71254746/143241313-f88dca71-59fc-4eaf-b60c-d6d060b1896b.png)
 
 # Frontend Mentor - Sunnyside agency landing page solution
 
