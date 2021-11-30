@@ -1,6 +1,6 @@
-# Jessica-Agorye/Sidehustle-capstone-project-group-39
 
-# Sidehustle-capstone-project-group-39
+
+# Jessica-Agorye.Sidehustle-capstone-project-group-39
 ![Screenshot (10)](https://user-images.githubusercontent.com/71254746/143240957-d794c10c-4293-4acf-a698-b7a9098cab66.png)
 
 
